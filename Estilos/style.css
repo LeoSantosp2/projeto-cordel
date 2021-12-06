@@ -38,14 +38,17 @@ section{
     font-family: sriracha, Arial, sans-serif;
     padding: 30px;
     min-height: 200px;
-    font-size: 2em;
+    font-size: 25px;
+}
+
+section p{
+    padding: 10px;
 }
 
 .sessao p{
     background-color: var(--cor03);
     color: var(--cor02);
-    padding: 10px;
-    width: 400px;
+    width: 300px;
 }
 
 #secum{
